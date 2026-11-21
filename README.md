@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="../github-banner.png"
+    src="./github-banner.png"
     alt="Anitosh Das Akash - Junior Full-Stack Developer"
     width="100%"
   />
