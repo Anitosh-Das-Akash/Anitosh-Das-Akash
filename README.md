@@ -1,4 +1,12 @@
+<p align="center">
+  <img
+    src="./github-banner.png"
+    alt="Anitosh Das Akash - Junior Full-Stack Developer"
+    width="100%"
+  />
+</p>
 
+<br/>
 # Hi 👋, I'm Anitosh Das
 
 ### Junior Full-Stack Developer | MERN Stack
